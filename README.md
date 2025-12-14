@@ -95,4 +95,4 @@ The following packages were used during development:
 ## Author
 James Hu  
 Brown University  
-Applied Mathematics & Computer Science / Data Science
+Data Science
